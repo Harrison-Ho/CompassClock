@@ -4,5 +4,5 @@
 
 **效果图**
 
-![罗盘时钟](.\image\compassClock.PNG)
+![罗盘时钟](./image/compassClock.PNG)
 
